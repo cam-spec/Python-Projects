@@ -1,0 +1,19 @@
+review,sentiment_json,summary,rewrite
+"The laptop is okay, but the battery dies in three hours and the screen is dim in sunlight.","```json
+{
+  ""sentiment"": ""Negative"",
+  ""rationale"": ""The text expresses dissatisfaction with the laptop's battery life and screen visibility.""
+}
+```",The laptop has a battery life of three hours and a screen that is difficult to see in sunlight.,"The laptop performs adequately; however, the battery lasts only three hours, and the screen tends to be dim in sunlight."
+Absolutely love this phone—camera quality is insane and the battery easily lasts two days!,"```json
+{
+  ""sentiment"": ""Positive"",
+  ""rationale"": ""The text expresses strong enthusiasm for the phone's features, highlighting both the camera quality and battery life positively.""
+}
+```",The phone has an excellent camera quality and a battery life of up to two days.,"I am very impressed with this phone; the camera quality is exceptional, and the battery provides performance that lasts up to two days."
+"Delivery was late. Product works as expected though, so it's fine.","```json
+{
+  ""sentiment"": ""Neutral"",
+  ""rationale"": ""While the delivery was late, the product functions as expected, balancing the negative and positive aspects.""
+}
+```","The product functions as expected, but the delivery was late.","The delivery was delayed; however, the product performs as expected, so overall, it is satisfactory."
